@@ -1,0 +1,16 @@
+{
+  "name": "blinq-generated-tests",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "playwright:install": "playwright install",
+    "test": "playwright test",
+    "test:example": "playwright test tests"
+  },
+  "dependencies": {
+    "@dev-blinq/bvt-playwright-js": "latest"
+  },
+  "devDependencies": {
+    "@playwright/test": "latest"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "default": "Prod",
+  "environments": {
+    "Prod": {
+      "id": "01KT3P3HMSM5JSBQC28NP8DKD5",
+      "projectId": "01KSPQ7M9XPQFGJREQ8WEMNZR0",
+      "baseURL": "https://shop-blinq.io/"
+    },
+    "Dev": {
+      "id": "01KT3P72NHEQFBXKHKD2ZAF2HA",
+      "projectId": "01KSPQ7M9XPQFGJREQ8WEMNZR0",
+      "baseURL": "https://dev.shop-blinq.io"
+    }
+  }
+}
